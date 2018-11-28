@@ -6,6 +6,8 @@ This is a basic bash script that plays random song files inside the directory yo
 It's also possible to add a preferred path to the script from where the music should be played.
 When executing the script you'll be first asked if the music should be played from your preferred path.
 
+You can press **any key** on your keyboard to skip a song!
+
 ## Notes
 
 For playing the songs **afplay** is being used & **afinfo** for querying the length of a specific song...
